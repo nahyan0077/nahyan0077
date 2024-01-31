@@ -4,6 +4,13 @@
 <h1 align="center">Hi 👋, I'm NAHYAN</h1>
 <h3 align="center">Self-taught full-stack developer</h3>
 
+<div align="center">  
+        🌱 I’m currently learning about DataStructures <br>
+        👯 I’m looking to collaborate with other Developers <br>
+        💬 Ask me about MERN, I will try to answer <br>
+        📫 How to reach me: email: nahyanmp4@gmail.com <br>
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nahyan0077&label=Profile%20views&color=0e75b6&style=flat" alt="nahyan0077" /> </p>
 
 <div align="center">
