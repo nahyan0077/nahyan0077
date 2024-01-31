@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm NAHYAN</h1>
 <h3 align="center">Self-taught full-stack developer</h3>
+<p align="center" ><img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 250px;" alt=""></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nahyan0077&label=Profile%20views&color=0e75b6&style=flat" alt="nahyan0077" /> </p>
 
