@@ -43,14 +43,14 @@
         <span style="margin-right: 20px;"></span>
         <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-        </a>        
+        </a>   
+     <br><br>
         <span style="margin-right: 20px;"></span>
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
         </a>      
         <span style="margin-right: 20px;"></span>      
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> </a> 
-        <br><br>
         <span style="margin-right: 20px;"></span>      
         <a href="#" target="_blank" rel="noreferrer">
             <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
@@ -59,7 +59,8 @@
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" /> </a>                     
         <span style="margin-right: 20px;"></span>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a> 
-        <span style="margin-right: 20px;"></span>
+        <br><br>
+     <span style="margin-right: 20px;"></span>
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> </a>
         <span style="margin-right: 20px;"></span>
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> </a>         
