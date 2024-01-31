@@ -3,13 +3,12 @@
 
 <h1 align="center">Hi 👋, I'm NAHYAN</h1>
 <h3 align="center">Self-taught full-stack developer</h3>
-<p align="center" ><img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 250px;" alt=""></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nahyan0077&label=Profile%20views&color=0e75b6&style=flat" alt="nahyan0077" /> </p>
 
-<p align="center">I’m currently learning <strong>MERN</strong></p>
+<p align="left" ><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;" alt=""></p>
 
-<p align="center">How to reach me: <a href="mailto:nahyanmp4@gmail.com">nahyanmp4@gmail.com</a></p>
+<p align="right" ><img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt=""></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
