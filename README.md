@@ -81,16 +81,9 @@
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> </a> 
     </p>  
 </p>
-<div class="container" style="display: flex;
-            justify-content: center;
-            gap: 10px;
-            padding: 20px;">
-    <p style="float: left; margin-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahyan0077&show_icons=true&locale=en&layout=compact&bg_color=808080" alt="nahyan0077" />
-    </p>
-    <p style="float: right;">
-        <img width="355px" src="https://github-readme-streak-stats.herokuapp.com/?user=nahyan0077&background=808080" alt="nahyan0077" />
-    </p>
-    <div style="clear: both;"></div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahyan0077&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt=""><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=nahyan0077&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahyan0077&theme=dark&hide_border=true" alt="">
 </div>
 
