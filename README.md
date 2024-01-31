@@ -71,10 +71,15 @@
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 </p>
 <div class="container">
-    <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahyan0077&show_icons=true&locale=en&layout=compact&bg_color=808080
-        " alt="nahyan0077" /></p>
-    <p align="right"  ><img width="355px" src="https://github-readme-streak-stats.herokuapp.com/?user=nahyan0077&background=808080" alt="nahyan0077" /></p>
+    <p style="float: left; margin-right: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahyan0077&show_icons=true&locale=en&layout=compact&bg_color=808080" alt="nahyan0077" />
+    </p>
+    <p style="float: right;">
+        <img width="355px" src="https://github-readme-streak-stats.herokuapp.com/?user=nahyan0077&background=808080" alt="nahyan0077" />
+    </p>
+    <div style="clear: both;"></div>
 </div>
+
 
 
 </body>
