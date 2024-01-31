@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile</title>
-    <style>
-        .container {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            padding: 20px;
-        }
-    </style>
-</head>
-<body>
+
  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" style="width: 100%;">
 
 <h1 align="center">Hi 👋, I'm NAHYAN</h1>
@@ -71,7 +56,10 @@
         <span style="margin-right: 20px;"></span>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 </p>
-<div class="container">
+<div class="container" style="display: flex;
+            justify-content: center;
+            gap: 10px;
+            padding: 20px;">
     <p style="float: left; margin-right: 20px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahyan0077&show_icons=true&locale=en&layout=compact&bg_color=808080" alt="nahyan0077" />
     </p>
@@ -80,5 +68,4 @@
     </p>
     <div style="clear: both;"></div>
 </div>
-</body>
-</html>
+
