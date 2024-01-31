@@ -6,10 +6,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nahyan0077&label=Profile%20views&color=0e75b6&style=flat" alt="nahyan0077" /> </p>
 
-<p align="left" ><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;" alt=""></p>
-
-<p align="right" ><img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt=""></p>
-
+<div align="center" style="gap: 20px;">
+    <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" style="width: 300px;" alt="">
+    <img src="https://user-images.githubusercontent.com/97904458/200912394-9ab7bea1-30fa-4a70-a460-d53e759c511c.gif" style="width: 300px;" alt="">
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/nahyan9094/" target="blank">
